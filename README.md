@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A speach, deliuered to the Kings most excellent Maiestie at his entrie into his good-towne of Edinbu
+
 #####Body#####
-A speach, deliuered to the Kings most excellent Maiestie at his entrie into his good-towne of Edinbu
+
+1. A SPEACH, Deliuered to the Kinges most excellent Majestie, at his Entry into his good Towne of EDINBVRGH, &c.
+
+1. ORATIO PER EVNDEM SERENISSIMO REGI EXHIBITA.
+
 **Types of content**
 
   * There are 28 **verse** lines!
